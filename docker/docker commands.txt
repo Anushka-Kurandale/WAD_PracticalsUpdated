@@ -1,0 +1,9 @@
+vs-code terminal:-
+
+docker --version
+node anu.js
+docker build -t partb .
+docker images
+
+docker toolbox:-
+docker --version
