@@ -1,0 +1,7 @@
+git init
+git remote add origin <link>
+git add .
+git branch
+git checkout -b main
+git commit -m " "
+git push -u origin main
